@@ -1,4 +1,5 @@
-[
+{
+"product":[
     {
         "ten":"lenovo",
         "masp":"1123",
@@ -279,3 +280,4 @@
         "mota":"Ma tinh"
     }
 ]
+}
